@@ -1,4 +1,4 @@
 CoeContact
 ==========
 
-CRM application in Microsoft Office
+CRM application in Microsoft Officee
